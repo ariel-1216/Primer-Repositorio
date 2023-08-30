@@ -1,2 +1,2 @@
 # Primer-Repositorio
-Aprendiendo usar GitHub
+Aprendiendo a usar GitHub
